@@ -1,0 +1,19 @@
+C:\Users\Administrator\source\repos\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.csproj.CoreCompileInputs.cache
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\bin\Debug\net8.0\CalculatorPrj.exe
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\bin\Debug\net8.0\CalculatorPrj.deps.json
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\bin\Debug\net8.0\CalculatorPrj.runtimeconfig.json
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\bin\Debug\net8.0\CalculatorPrj.dll
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\bin\Debug\net8.0\CalculatorPrj.pdb
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.AssemblyInfoInputs.cache
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.AssemblyInfo.cs
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.csproj.CoreCompileInputs.cache
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.sourcelink.json
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.dll
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\refint\CalculatorPrj.dll
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.pdb
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\CalculatorPrj.genruntimeconfig.cache
+C:\Users\Sujit Dalve\Desktop\DotNet\CalculatorPrj\CalculatorPrj\obj\Debug\net8.0\ref\CalculatorPrj.dll

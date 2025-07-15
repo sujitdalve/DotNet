@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\CalculatorPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47F7648F-6267-4A12-A9F7-373748140B5C}|CalcTest\\CalcTest.csproj|c:\\users\\administrator\\source\\repos\\calculatorprj\\calctest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F7648F-6267-4A12-A9F7-373748140B5C}|CalcTest\\CalcTest.csproj|solutionrelative:calctest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CalculatorPrj\\CalcTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalcTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CalculatorPrj\\CalcTest\\UnitTest1.cs",
+              "RelativeToolTip": "CalcTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:59:00.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
